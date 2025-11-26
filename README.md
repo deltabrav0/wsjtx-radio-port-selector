@@ -101,6 +101,8 @@ install/
 ## 🔧 Requirements
 
 - macOS 12+
+- hamlib which provides rigctl.  can be installed with homebrew (brew install
+  hamlib)
 - `wsjtx-improved.app` installed in `/Applications`
 - Silicon Labs USB UART driver
 
